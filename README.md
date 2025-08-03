@@ -1,8 +1,4 @@
-fabric-loader
+bluefiber-loader
 ===========
 
-The loader for mods under Fabric. It provides mod loading facilities and useful abstractions for other mods to use.
-
-## License
-
-Licensed under the Apache License 2.0.
+Fork of the FabricMC modloader to experiment on potato computers.
